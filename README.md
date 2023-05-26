@@ -1,9 +1,14 @@
 cara push codingan github :
 git init
+
 git add .
+
 git commit -m "first commit"
+
 git remote add origin https://github.com/brianetlab/Repository-Baru.git
+
 git push -u origin master
+
 
 #clone project
 1. buka repositori github senjanis
